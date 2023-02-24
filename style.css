@@ -6,7 +6,7 @@
       rgba(124, 130, 135, 0.343),
       rgba(118, 121, 124, 0.5)
     ),
-    url(/image/marita-kavelashvili-ugnrXk1129g-unsplash.jpg);
+    url(../image/marita-kavelashvili-ugnrXk1129g-unsplash.jpg);
   height: 100vh;
 }
 .bg-img2 {
@@ -17,7 +17,7 @@
       rgba(124, 130, 135, 0.343),
       rgba(118, 121, 124, 0.5)
     ),
-    url(/image/sergei-a--heLWtuAN3c-unsplash.jpg);
+    url(../image/sergei-a--heLWtuAN3c-unsplash.jpg);
   height: 100vh;
 }
 .bg-img3 {
@@ -28,6 +28,6 @@
       rgba(124, 130, 135, 0.343),
       rgba(118, 121, 124, 0.5)
     ),
-    url(/image/steven-kamenar-MMJx78V7xS8-unsplash.jpg);
+    url(../image/steven-kamenar-MMJx78V7xS8-unsplash.jpg);
   height: 100vh;
 }
